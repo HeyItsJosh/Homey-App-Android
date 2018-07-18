@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "949836772022",
+    "firebase_url": "https://homeybeta.firebaseio.com",
+    "project_id": "homeybeta",
+    "storage_bucket": "homeybeta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949836772022:android:b3dc7ac98c21e7af",
+        "android_client_info": {
+          "package_name": "Homey.Beta.DopeAF"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949836772022-ohjo9uojfvgdv0t22hbj61gsphk0u69i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjQBZEOeD14FiaXyvVcoeNYRROqXrpABA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949836772022:android:d7bdbf9f19f5b55f",
+        "android_client_info": {
+          "package_name": "com.example.netgear.homeyandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949836772022-ohjo9uojfvgdv0t22hbj61gsphk0u69i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjQBZEOeD14FiaXyvVcoeNYRROqXrpABA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
